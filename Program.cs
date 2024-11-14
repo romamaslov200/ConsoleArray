@@ -12,7 +12,7 @@ namespace ConsoleArray
 
         static Random rnd = new Random();
 
-        static int[] ia= new int[5000];
+        static int[] ia= new int[100];
 
         static void Main(string[] args)
         {
